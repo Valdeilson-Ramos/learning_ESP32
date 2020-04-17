@@ -1,2 +1,2 @@
-host="https://esp32-773d1.firebaseio.com/"
-key="za5xRj5OsFvYD24a1QXYkYx2CcRfm7JQXZo1xuU9"
+host firebase"
+"sua chave firebase"
